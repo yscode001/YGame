@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Boy
+  m_EditorClassIdentifier: 
+  m_GroupName: Boy
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 86e6e925acfdd45f4880a9802f612f41
+  m_SerializeEntries:
+  - m_GUID: 19ef455abc40c40b5b32609bc9811507
+    m_Address: BoyBodyPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote_all
+    - boy
+  - m_GUID: b80d272e80d0941ce8bd10fe7fd0f8ef
+    m_Address: boy_clothes_shoes_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote_all
+    - boy
+  - m_GUID: 8706b1ecbd01748b69c92e40a1c1fa58
+    m_Address: boy_clothes_pants_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote_all
+    - boy
+  - m_GUID: b42554b3d17b54111bb5b0cd8ec90ec4
+    m_Address: boy_clothes_shoes_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote_all
+    - boy
+  - m_GUID: 63f20b41b43ff4194a6f888bdee126dd
+    m_Address: boy_clothes_top_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote_all
+    - boy
+  - m_GUID: 55c15d4fd1eae4de89038bdab9852839
+    m_Address: boy_clothes_hair_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote_all
+    - boy
+  - m_GUID: 17c140a54bf8f49c3a7db6bed78e3d4e
+    m_Address: boy_clothes_hair_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote_all
+    - boy
+  - m_GUID: 0e65e69e8e5a143d4b4ed8707ffbb1db
+    m_Address: boy_clothes_pants_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote_all
+    - boy
+  - m_GUID: be1bc63d0310d4415b01c04220bdeec8
+    m_Address: boy_clothes_top_1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote_all
+    - boy
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0379c66d1b2cf4537807a344880336b2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c3bb7431b560b42959ae80ead6485348, type: 2}
+    - {fileID: 11400000, guid: 46c885ec9515647d2999ac3d333058b1, type: 2}
